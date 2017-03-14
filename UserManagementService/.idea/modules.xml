@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserManagementService.iml" filepath="$PROJECT_DIR$/.idea/modules/UserManagementService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserManagementService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/UserManagementService_main.iml" group="UserManagementService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserManagementService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/UserManagementService_test.iml" group="UserManagementService" />
+    </modules>
+  </component>
+</project>

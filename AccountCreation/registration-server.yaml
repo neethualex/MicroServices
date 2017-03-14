@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: AccountsService
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/royalcyber
+    userName: accounts
+    password: accounts
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+server:
+  port: 1112
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://localhost:1111/eureka}
